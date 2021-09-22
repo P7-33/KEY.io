@@ -1,4 +1,4 @@
-# EOS Key
+## EOS Key
 
 ![my img](eoskey.png)
 
