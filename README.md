@@ -22,7 +22,7 @@ The tool is available for Web Browsers, MacOS, Windows and Linux.
 
 For our global supporters, we have made the app available in English, Spanish, Mandarin and Korean!
 
-# Instructions
+## Instructions
 To use the tool, all you have to do is:
 1. Head on over to [EOSKEY.IO](http://eoskey.io).
 2. Download offline version for your platform and turn off your internet.
